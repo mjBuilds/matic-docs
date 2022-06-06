@@ -1,6 +1,6 @@
 ---
 id: orientation
-title: How to Contribute
+title: Contributing to Polygon Docs
 description: We believe one of the things that makes Polygon special is its coherent design and we seek to retain this defining characteristic.
 keywords:
   - docs
@@ -8,19 +8,44 @@ keywords:
 image: https://matic.network/banners/matic-network-16x9.png 
 ---
 
-## **Identifying an Area to Contribute**
+## **Why to Contribute to Polygon Docs?**
 
-There are several ways to identify an area where you can contribute to Polygon:
+There are **numerous reasons** for this!
+- **Develop Skill**: It solidifies your knowledge base if you are learning about Polygon, and Web3 in general.
+- **Proof of Work**: Your contribution will be a proof of your work, skills, and knowledge to potential employers.
+- **Sense of Achievement**: Identifying and resolving problems gives a great sense of accomplishment on a personal level.
 
-- The easiest is just to email one of the [Community Maintainers](/docs/contribute/community-maintainers) saying “I want to help!”. They’ll work with you to find an area for you to contribute
-- If you have a specific contribution in mind, confirm whether the contribution is appropriate first by reaching out in Polygon Telegram group or contacting one of the [Community Maintainers](/docs/contribute/community-maintainers) directly
-- If you do not have a specific contribution in mind, you can also browse the issues labelled as `help wanted` on the [Polygon GitHub repos](https://github.com/maticnetwork)
-- Issues that additionally have the `good first issue` label are considered ideal for first-timers
-## **Add to Polygon Documentation:**
-  - If you need to add or change anything in Polygon Documentation, please raise a PR to the `master` branch. (Kindly check the sample PR)
-  - Polygon team will review the PR or reach out accordingly. 
-  - Repository: https://github.com/maticnetwork/matic-docs
-  - Sample PR: https://github.com/maticnetwork/matic-docs/pull/360
+## **What to Contribute?**
+Any contribution, big or small, is appreciated! You can identify your area of contribution which may include, but not restricted to:
+  - **Docs**:  
+    - Grammar
+    - Typos
+    - Tone and clarity
+    - Translation
+  - **Design**:  
+    - Content structure and layout
+    - Intuitive designs to make docs more appealing
+
+In addition to the above list, there are more ways to identify an area where you can contribute to Polygon:
+  - The easiest is just to email one of the [Community Maintainers](/docs/contribute/community-maintainers) saying “I want to help!”. They’ll work with you to find an area for you to contribute
+  - If you have a specific contribution in mind, confirm whether the contribution is appropriate first by reaching out in Polygon Telegram group or contacting one of the [Community Maintainers](/docs/contribute/community-maintainers) directly
+  - If you do not have a specific contribution in mind, you can also browse the issues labelled as `help wanted` on the [Polygon GitHub repos](https://github.com/maticnetwork)
+  - Issues that additionally have the `good first issue` label are considered ideal for first-timers
+
+## **How to Contribute to Polygon Documentation?**
+If you are new to GitHub and open-source contribution, do not worry! We will help you get started.
+- **Step 1:** 
+Read [How to Contribute to Polygon Docs](https://github.com/maticnetwork/matic-docs#how-to-contribute-to-polygon-wiki). It specifically guides you on how to contribute to Polygon Docs. 
+:::info 
+You can also refer to **[First Contribution](https://github.com/firstcontributions/first-contributions#first-contributions)** to understand how to contribute to open-source projects.
+:::
+- **Step 2:** 
+If you need to add, or change anything in **Polygon** Documentation, yeraise a `PR` to the `master` branch.  
+See [Sample PR](https://github.com/maticnetwork/matic-docs/pull/360) for your reference.
+
+- **Step 3:** 
+Polygon team will review the `PR`, or reach out accordingly.  
+Link to the Polygon doc repository: https://github.com/maticnetwork/matic-docs
   > If you are adding a new document, it is recommended to just have a basic summary/introduction and a link to your github or documentation for more details.
 
 ## **Contribution Guidelines**
@@ -64,6 +89,6 @@ This is a standard git log `--oneline` to show how these information could be st
 * 6b891bc new: add utf-8 encoding declaration !minor 
 ```
 
-For more info please refer to [What Are Some Good Ways to Manage a Changelog Using Git?](https://stackoverflow.com/questions/3523534/good-ways-to-manage-a-changelog-using-git/23047890#23047890)
+For more info, please refer to [What Are Some Good Ways to Manage a Changelog Using Git?](https://stackoverflow.com/questions/3523534/good-ways-to-manage-a-changelog-using-git/23047890#23047890)
 
-For more details, see [https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
+For more details, see [How to Write a Git Commit Message?](https://chris.beams.io/posts/git-commit/)
